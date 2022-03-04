@@ -1,65 +1,58 @@
 export const dates = [
   {
-    title: "Yeast",
-    date: "2600 BC",
-    fullDescription:
-      "The Egyptians were also pioneers in baking as the first recorded civilization to use yeast in their bread as long ago as 2600 BC.",
-    image:
-      "https://i1.wp.com/www.atthemummiesball.com/wp-content/uploads/2018/04/Relief-Depicting-the-Nurse-Tia.jpg?ssl=1",
-    summary: "The Egyptians are the first recorded civilization to use yeast",
+    date: "10th January 2021",
+    title: "Strawberry tart",
+    caption:"Snowflake looking strawbeey tart, Yummy!",
+    image: "https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/strawberry_crme_ptissire_01349_16x9.jpg",
+    details: "This impressive strawberry tart looks as if it’s come straight from an upmarket bakery. You will need to allow plenty of time, but as long as you take it step by step it’s not difficult to make.",
   },
   {
-    title: "Sugar",
-    date: "1069 AD",
-    fullDescription:
-      "Sugar was a luxury in Europe until the early 19th century. The first sugar was recorded in England in 1069.",
-    image: "https://erajournal.co.uk/wp-content/uploads/2021/01/sugar-FI.png",
-    summary: "The first recorded use of sugar in England",
+    date: "23rd March 2021",
+    title: "Strawberry shortcake cupcakes",
+    caption: "I looooove sweet and fresh taste,and this is just so perfect for me.",
+    image: "https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/strawberry_shortcake_91461_16x9.jpg",
+    details: "strawberry shortbread cupcakes have a double surprise inside! Cut them open to reveal a whole strawberry and a crisp biscuit base. Perfect for picnics and parties.",
   },
   {
-    title: "Icing sugar",
-    date: "1494 AD",
-    fullDescription:
-      "Icing sugar was invented. It was originally used as a topping for marchpanes, an almond and sugar dessert.",
-    image:
-      "https://www.biggerbolderbaking.com/wp-content/uploads/2016/09/IMG_7428.jpg",
-    summary: "Icing sugar was invented",
+    date: "11th May 2021",
+    title: "Lemon drizzle swirls",
+    caption: "Very tradition,but so good.",
+    image: "https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/lemon_drizzle_swirls_69883_16x9.jpg",
+    details: "These lemon drizzle swirls are pure, edible joy. Soft sweet dough, swirled with lemon zest and drizzled in a thick, creamy, lemony frosting with a tiny kiss of cardamom.",
   },
   {
-    title: "Soufflé",
-    date: "1700s AD",
-    fullDescription:
-      "Soufflé appears in France. Cakes and pastries also begin to appear, thanks to the increasing availability of sugar and the rising of the chef profession",
-    image:
-      "https://www.seasonsandsuppers.ca/wp-content/uploads/2013/02/souffle1200.jpg",
-    summary: "Soufflé appears in France",
+    date: "15th August 2021",
+    title: "Lemon polenta cake",
+    caption: "The easiest making lemon flavour cake,great to take home party.",
+    image: "https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/almond_and_lemon_polenta_21317_16x9.jpg",
+    details: "Almonds give this lemon polenta cake a wonderful richness and crumbly texture. Served with zesty lemon icing, orange mascarpone and caramelised satsumas.",
   },
   {
-    title: "Milling",
-    date: "1779 AD",
-    fullDescription:
-      "Although the earliest archaeological evidence for wheat seeds crushed between simple millstones to make flour dates to 6000 BC. The Romans were the first to grind seeds on cone mills. In 1779, at the beginning of the Industrial Era, the first steam mill was erected in London.",
-    image:
-      "https://www.conserve-energy-future.com/wp-content/uploads/2021/07/wheat-and-flour.webp",
-    summary: "The first steam mill was erected in London",
+    date: "20th November 2021",
+    title: "Sunken chocolate amaretto cake",
+    caption: "No single word to say! Taste it ,and this is everything!",
+    image: "https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/sunken_chocolate_42872_16x9.jpg",
+    details: "This is one of those dark, squidgy-bellied chocolate cakes that I turn to gratefully when I have friends over to supper; a gratitude that is always reciprocated. The mixture of ground almonds and amaretto gives a marzipan kick, balancing the bitterness of the chocolate. The amaretti cream alongside brings both smoothness and a fine honeycomb crunch to the velvetiness of the cake.",
   },
   {
-    title: "Baking powder",
-    date: "1843 AD",
-    fullDescription:
-      "The first modern version of baking powder was discovered and manufactured by Alfred Bird (1811-1878), British chemist and founder of Bird and Sons Ltd. His improved version of baking powder was created so he could make yeast-free bread for his wife, Elizabeth, who had allergies to eggs and yeast.",
-    image:
-      "https://homecookworld.com/wp-content/uploads/2021/05/Can-I-use-baking-powder-instead-of-baking-soda-780x520.jpg?ezimgfmt=ng%3Awebp%2Fngcb94%2Frs%3Adevice%2Frscb94-1",
-    summary:
-      "The first modern version of baking powder was discovered and manufactured by British chemist Alfred Bird",
+    date: "10th December 2021",
+    title: "Dark and sumptuous chocolate cake.",
+    caption: "This is vegan cake, and is absolutely amazing taste as normal cakes!",
+    image: "https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/dark_and_sumptuous_53597_16x9.jpg",
+    details:"A vegan chocolate cake to die for from Nigella Lawson's Simply Nigella.",
   },
   {
-    title: "Synthetic organic dye",
-    date: "1856 AD",
-    fullDescription:
-      "William Henry Perkin discovered the first synthetic organic dye, called mauve, used to colour foods, drugs, and cosmetics.",
-    image:
-      "https://www.wilton.com/dw/image/v2/AAWA_PRD/on/demandware.static/-/Sites-wilton-project-master/default/dw13ab30a5/images/project/WLPROJ-9083/RoMaCa_43176%2001.jpg?sw=800&sh=800",
-    summary: "The first synthetic organic dye was discovered",
+    date: "15th January 2022",
+    title: "Beetroot and chocolate cake",
+    caption: "Beetloot lover? Try this amazing cake! You cannot tell this is from beetroot",
+    ge: "https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/beetroot_and_chocolate_43743_16x9.jpg",
+    details: "chocolate traybake includes grated beetroot which makes for a beautifully moist, sweet cake. It’s topped with a chocolate feathered icing – which looks impressive, but is so easy to do.",
+  },
+  {
+    date: "24th Feburuary 2022",
+    title: "Chocolate hazelnut cake",
+    caption: "Gotta make birthday cake? this is tradition italian celebration cake.",
+    image: "https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/chocolate_and_hazelnut_38207_16x9.jpg",
+    details: "We made this as a birthday cake for Italy, which celebrated the 150th anniversary of its unification in 2011. Gianduia is a speciality of the Piedmont region and it’s a mixture of ground hazelnuts and chocolate.",
   },
 ];

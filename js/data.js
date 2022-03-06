@@ -52,9 +52,9 @@ export const dates = [
   },
   {
     date: "2017",
-    title: "[Enter name]",
-    caption: "Mayme's [enter name] Nibbles",
-    image: "https://via.placeholder.com/300",
-    details: "2017 brings us the launch of one of our most successful pieces of innovation, Mayme's [enter name] Nibbles. These nibbly, chocolatey bites have gone down a storm!",
+    title: "Strawberry tart pie",
+    caption: "Mayme's signature Nibbles",
+    image: "img/strawberry-tart-pie.PNG",
+    details: "2017 brings us the launch of one of our most successful pieces of innovation, Mayme's signature Nibbles. These nibbly, Strawberry bites have gone down a storm!",
   },
 ];

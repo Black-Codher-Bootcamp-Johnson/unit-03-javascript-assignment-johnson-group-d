@@ -98,7 +98,7 @@ h2 {
 
 .timeline::before {
   content: "";
-  background: #a6ccf3;
+  background: #a6f3e2;
   width: 5px;
   height: 95%;
   position: absolute;
@@ -110,7 +110,7 @@ h2 {
   margin: 1em 0;
   width: 20em;
   padding: 1em;
-  box-shadow: rgba(59, 4, 47, 0.315) 0px 20px 30px -10px;
+  box-shadow: rgba(59, 4, 52, 0.315) 0px 20px 30px -10px;
 }
 
 .timeline-item:nth-child(even) {

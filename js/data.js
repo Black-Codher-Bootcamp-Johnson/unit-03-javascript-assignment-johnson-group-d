@@ -52,9 +52,9 @@ export const dates = [
   },
   {
     date: "2017",
-    title: "Strawberry tart pie",
-    caption: "Mayme's signature Nibbles",
-    image: "img/strawberry-tart-pie.PNG",
-    details: "2017 brings us the launch of one of our most successful pieces of innovation, Mayme's signature Nibbles. These nibbly, Strawberry bites have gone down a storm!",
+    title: "100 years of baking in Birmingham",
+    caption: "Celebrating 100 years of baking in Birmingham.",
+    image: "img/baking.jpg",
+    details: "The Mayme's factory at Aston, Europe's largest, celebrates 100 years of baking.",
   },
 ];
